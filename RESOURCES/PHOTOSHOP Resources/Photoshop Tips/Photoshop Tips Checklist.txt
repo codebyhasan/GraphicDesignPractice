@@ -1,0 +1,62 @@
+Photoshop Tips Checklist:
+
+1. Smart Objects:
+   - Use Smart Objects to preserve the original quality of images when scaling or transforming.
+
+2. Layer Masks:
+   - Use layer masks instead of erasing parts of a layer to maintain flexibility and non-destructive editing.
+
+3. Keyboard Shortcuts:
+   - Learn and use keyboard shortcuts (e.g., Ctrl + T for Free Transform, Ctrl + J to duplicate a layer) to speed up your workflow.
+
+4. Aligning Layers:
+   - Select multiple layers and use the Align options in the top menu to quickly center or distribute layers evenly.
+
+5. Clipping Masks:
+   - Use clipping masks to apply effects or adjustments to a specific layer without affecting others.
+
+6. Adjustment Layers:
+   - Use adjustment layers for color correction and effects, allowing you to edit them non-destructively.
+
+7. Content-Aware Fill:
+   - Use the Content-Aware Fill feature to remove unwanted objects from your images seamlessly.
+
+8. Guides and Grids:
+   - Use guides (View > New Guide) and grids (View > Show > Grid) to help align elements precisely.
+
+9. Batch Processing:
+   - Use the Batch Processing feature (File > Automate > Batch) to apply the same edits to multiple files at once.
+
+10. Custom Brushes:
+    - Create custom brushes from shapes or images to add unique textures and effects to your artwork.
+
+11. Layer Styles:
+    - Use layer styles (double-click on a layer) to quickly add effects like shadows, glows, and strokes.
+
+12. History Panel:
+    - Use the History panel (Window > History) to revert to previous states of your work easily.
+
+13. Save for Web:
+    - Use the "Save for Web" option (File > Export > Save for Web) to optimize images for online use.
+
+14. Color Picker:
+    - Hold down the Alt key while using the Color Picker to sample colors from anywhere on your screen.
+
+15. Quick Selection Tool:
+    - Use the Quick Selection Tool (W) for fast and easy selections by painting over the area you want to select.
+
+16. Layer Comps:
+    - Use Layer Comps (Window > Layer Comps) to create and manage different design variations within the same document.
+
+17. Text on a Path:
+    - Create text on a path by selecting the Pen Tool (P) to draw a path and then clicking on it with the Type Tool (T).
+
+18. Use Actions:
+    - Record and use Actions (Window > Actions) to automate repetitive tasks and save time.
+
+19. Zooming:
+    - Use Ctrl + Space (Windows) or Cmd + Space (Mac) to quickly zoom in and out while using the Brush Tool.
+
+20. Export Layers to Files:
+    - Use the "Export Layers to Files" script (File > Export > Export Layers to Files) to save each layer as a separate file.
+
